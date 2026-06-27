@@ -58,7 +58,6 @@
 ### 🧰 Frameworks & Tools
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Agentforce](https://img.shields.io/badge/Salesforce_Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -91,13 +90,6 @@
 
 ---
 
-## 🤖 Salesforce Agentforce Assistant
-
-- AI-powered customer support assistant
-- Experience booking and management automation
-- Built using Salesforce Agentforce
-
----
 
 # 🏆 Certifications
 
