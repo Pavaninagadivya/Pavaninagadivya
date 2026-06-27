@@ -1,18 +1,138 @@
-# 💫 About Me:
- 🎓B.Tech Computer Science and Engineering Student<br><br>🏫 Seshadri Rao Gudlavalleru Engineering College<br><br>🤖 Passionate about Artificial Intelligence, Web development, and Software Development<br><br>🌱 Currently learning Agentic AI, and Java Full Stack<br><br>💡 Interested in building intelligent systems and solving real-world problems<br><br>📍 Andhra Pradesh, India
+<h1 align="center">Hi 👋, I'm Chodisetty Pavani Naga Divya</h1>
 
+<p align="center">
+  <img src="https://github.com/Pavaninagadivya.png" width="200">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chodisetty-pavani-naga-divya-649424359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnd29076@gmail.com) 
+<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast | CSE Student</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pavaninagadivya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pavaninagadivya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pavaninagadivya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Passionate+About+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pavaninagadivya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pavaninagadivya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 B.Tech Computer Science and Engineering Student
+
+🏫 Seshadri Rao Gudlavalleru Engineering College
+
+💻 Passionate about Java Full Stack Development, Artificial Intelligence, Machine Learning, and Web Development
+
+🌱 Currently learning Java Full Stack, Spring Boot, Agentic AI, and Salesforce Agentforce
+
+💡 Interested in developing scalable web applications and solving real-world problems
+
+📍 Andhra Pradesh, India
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-green?style=for-the-badge)
+![VGG16](https://img.shields.io/badge/VGG16-orange?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-purple?style=for-the-badge)
+
+### 🧰 Frameworks & Tools
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Salesforce_Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+## 🌍 Travel Website
+
+- Responsive travel website with an attractive UI
+- Explore popular destinations and travel information
+- Built using HTML, CSS and JavaScript
+
+---
+
+## 🦋 Butterfly Species Classification
+
+- Deep Learning project using VGG16 Transfer Learning
+- Classifies butterfly species from images
+- Built using Python, TensorFlow and Keras
+
+---
+
+## 🌐 Personal Portfolio Website
+
+- Fully responsive personal portfolio
+- Showcases projects, skills, certifications and contact details
+- Developed using HTML, CSS and JavaScript
+
+---
+
+## 🤖 Salesforce Agentforce Assistant
+
+- AI-powered customer support assistant
+- Experience booking and management automation
+- Built using Salesforce Agentforce
+
+---
+
+# 🏆 Certifications
+
+📜 Artificial Intelligence & Machine Learning
+
+📜 Python Programming
+
+📜 Web Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pavaninagadivya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavaninagadivya&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavaninagadivya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chodisetty%20Pavani%20Naga%20Divya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chodisetty-pavani-naga-divya-649424359)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pavaninagadivya-black?style=for-the-badge&logo=github)](https://github.com/Pavaninagadivya)
+
+📧 **Email:** pnd29076@gmail.com
+
+---
+
+### ✨ *"Code. Learn. Build. Grow."*
